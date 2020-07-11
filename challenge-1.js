@@ -18,7 +18,7 @@ var lastDice;
 
     alert('GAME RULES:');
     alert('Player lose his ENTIRE SCORE if rolls two 6s in a row');
-    alert('you can choose your winning score by adding in FINAL SCORE box');
+    alert('you can choose your winning score by adding in FINAL SCORE box [default Winning Score: 100]');
     alert('player loss his CURRENT SCORE when one of dice rolls 1');
     alert('START GAME');
 
